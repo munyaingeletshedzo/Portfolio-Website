@@ -21,6 +21,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+
 *::selection {
   background: #2b3dda;
   color: #fff;
@@ -96,7 +97,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #d759ba;
 }
 header .navbar ul {
   list-style: none;
